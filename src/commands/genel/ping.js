@@ -9,5 +9,3 @@ module.exports = {
     await interaction.reply(`🏓 Pong! ${mesajGecikmesi}ms`);
   },
 };
-
-t
